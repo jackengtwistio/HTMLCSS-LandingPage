@@ -23,8 +23,8 @@ section{
 .center{justify-content: center;}
 .space-between{justify-content:space-between;}
 .btn{
-    border: none;
-    cursor: -webkit-grabbing; cursor: grabbing;
+    border: 0;
+    cursor: pointer;
     padding: 6px 12px;
     border-radius: 3p;
     line-height: 1.4px;
